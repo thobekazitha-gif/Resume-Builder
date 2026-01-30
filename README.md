@@ -4,7 +4,7 @@
 
 # AI Resume Builder – Logic League Resume Builder
 
-## Group Project 2 – Tech Career Accelerator (CAPACITI)
+## Group Project 
 
 **Program:** Tech Career Accelerator (CAPACITI)  
 **Project Type:** AI-powered Resume Generation Tool  
